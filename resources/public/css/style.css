@@ -1,0 +1,36 @@
+/* some style */
+
+body {
+  color: #555;
+  font: 13px "Open Sans", Helvetica, sans-serif;
+}
+
+.NowPlaying {
+  border-bottom: 1px solid #ccc;
+  padding: 12px 12px 12px 80px;
+}
+
+.NowPlaying-track {
+  font-weight: bold;
+}
+
+.PlaylistView {
+  border: 1px solid #ccc;
+  width: 400px;
+  margin: 20px auto;
+  min-height: 400px;
+}
+
+.Playlist {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+
+.Playlist-item {
+  border-bottom: 1px dotted #ccc;
+  padding: 8px;
+}
+
+
